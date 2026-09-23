@@ -1,7 +1,7 @@
 ### hey, i'm slobo 👋
 
-building [namestone](https://namestone.com) • contributing to ens
+building [fullrangeAI](https://fullrange.ai) 
 
-currently obsessed with [claude code](https://github.com/anthropics/claude-code)
+currently obsessed with Jev by [typesafe.ai](https://typesafe.ai/)
 
 [justslobo.com](https://justslobo.com) · [@alexslobodnik](https://x.com/AlexSlobodnik)
